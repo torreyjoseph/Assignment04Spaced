@@ -1,0 +1,8 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Users/joseph/Desktop/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=62679:/Users/joseph/Desktop/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/joseph/IdeaProjects/Spaced/out/production/Spaced Main
+Drone A is 9.9498743710662 units from Drone B.
+Drone A is 13.601470508735444 units from Drone C.
+Drone B is 10.677078252031311 units from Drone C.
+The maximum distance between two drones is 13.601470508735444 units.
+The minimum distance between two drones is 9.9498743710662 units.
+
+Process finished with exit code 0
